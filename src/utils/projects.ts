@@ -29,7 +29,7 @@ export const projects: project[] = [
     cover: "/assets/projects/rotator.PNG",
     tags: ["HTML", "CSS", "animation", "responsive","JavaScript","3d Effect"],
     code_link: "https://github.com/garimagoyal321/rotateimage.git",
-    deploy_link: "#",
+    deploy_link: "https://github.com/garimagoyal321/rotateimage.git",
     desc: "Image Rotator is a sleek and responsive web-based image carousel that dynamically rotates images to create an engaging visual display. Built using HTML, CSS, and JavaScript, this project offers a smooth and customizable way to showcase images with minimal code.",
   },
   {
@@ -37,7 +37,7 @@ export const projects: project[] = [
     cover: "/assets/projects/heart_trail.PNG",
     tags: ["HTML", "CSS", "animation", "responsive"],
     code_link: "https://github.com/garimagoyal321/hearttrailanimation.git",
-    deploy_link: "#",
+    deploy_link: "https://github.com/garimagoyal321/hearttrailanimation.git",
     desc: "Heart Trail Animation is a fun and interactive project where animated hearts follow the user's clicks on the screen, creating a beautiful visual trail effect. Built using HTML, CSS, and JavaScript, this project brings life to the screen with smooth and dynamic heart animations.",
   },
   
@@ -46,7 +46,7 @@ export const projects: project[] = [
     cover: "/assets/projects/Text_editor.PNG",
     tags: ["CSS", "Javascript", "HTML", "Responsive"],
     code_link: "https://github.com/garimagoyal321/Code-Editor.git",
-    deploy_link: "#",
+    deploy_link: "https://github.com/garimagoyal321/Code-Editor.git",
     desc: "Custom Text Editor is a lightweight and intuitive web-based text editor that allows users to create, edit, and format text with ease. Built using simple and efficient HTML, CSS, and JavaScript, this text editor offers essential features for editing documents directly in the browser.",
   },
   
